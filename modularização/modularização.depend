@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1678736759 source:c:\users\mathe\onedrive\Área de trabalho\faculdade\3 periodo\poo\preprova\modularização\biblioteca01.cpp
+	<iostream>
+
+1678736673 source:c:\users\mathe\onedrive\Área de trabalho\faculdade\3 periodo\poo\preprova\modularização\main.cpp
+	<iostream>
+	"Biblioteca01.h"
+	"Biblioteca02.h"
+
+1678731312 c:\users\mathe\onedrive\Área de trabalho\faculdade\3 periodo\poo\preprova\modularização\biblioteca01.h
+
+1678736905 source:c:\users\mathe\onedrive\Área de trabalho\faculdade\3 periodo\poo\preprova\modularização\biblioteca02.cpp
+	<iostream>
+	"Biblioteca01.h"
+
+1678735804 c:\users\mathe\onedrive\Área de trabalho\faculdade\3 periodo\poo\preprova\modularização\biblioteca02.h
+
